@@ -11,7 +11,7 @@ text-decoration: none;
 color: #808cfd;
  }
 h1 {
-    color: rgb(236, 133, 15);
+    color: #E9ECFF; /*вот тут вот был конфликт*/
     font-size: 200px;
     font-family: TC Vidwrk;
     line-height: 110%;
